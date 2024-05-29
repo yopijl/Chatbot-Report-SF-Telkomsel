@@ -1,4 +1,4 @@
-Username: @ReportSFTelBot
+Username: @ReportSFTelBot or visit this link https://web.telegram.org/k/#@ReportSFTelBot
 
 Link Spreadsheet: https://docs.google.com/spreadsheets/d/1jSNK54SQJzPS9FBjR0vCEdI62_MwUTJsyKq8uPBMC3A/edit?usp=sharing
 
